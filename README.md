@@ -1,4 +1,4 @@
-- HELLO WORLD I'm Ana!✨
+### HELLO WORLD I'm Ana!✨
 - 👀 I’m interested in learning more about gaming development and web development.
 - 🌱 I’m currently building my own website so I can publish some of my project including my video games.
 
@@ -6,7 +6,7 @@
     - Email: nunoany@gmail.com
     - Instagram: @annenuno
 
-- ✨ NOTE: my website is still under construction, but hopefully it will be fully working soon.
+## ✨ NOTE: my website is still under construction, but hopefully it will be fully working soon.
 <!---
 annenuno/annenuno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 ### Languages I am currently learning:
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 ---
 
 <details>
