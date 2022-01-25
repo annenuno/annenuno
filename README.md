@@ -1,4 +1,7 @@
 ### ✨HELLO WORLD I'm Ana!✨
+
+<img align="right" alt="GIF" src="https://github.com/annenuno/annenuno/blob/main/plant.gif" width="500" height="320" />
+
 - 👀 I’m interested in learning more about gaming development and web development.
 - 🌱 I’m currently building my own website so I can publish some of my projects including my video games.
 - 😄 I’m looking to collaborate on open source projects
