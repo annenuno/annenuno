@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about gaming development and web development.
 - 🌱 I’m currently building my own website so I can publish some of my project including my video games.
 - 😄 I’m looking to collaborate on open source projects
-- 🦈 Fun fact: I speak Spanish and I have over 60 indoor plants!! 🪴
+- 🦈 Fun fact: I speak Spanish and I take care over 60 indoor plants!! 🪴
 
 - 📫 How to reach me:
     - Email: nunoany@gmail.com
