@@ -57,10 +57,10 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" alt="css" width="26px" src="https://github.com/annenuno/annenuno/blob/main/icons/css.png" />
 
-<img align="left" alt="vs" width="26px" src="https://github.com/annenuno/annenuno/blob/main/icons/vs.png" />
+
 
 <br />
----
+
 
 <br />
 <details>
