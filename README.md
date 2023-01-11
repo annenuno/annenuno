@@ -11,7 +11,7 @@
     - Email: nunoany@gmail.com
     - Instagram: @annenuno
 
-## ✨ CHECK MY WEBSITE: annenuno@gmail.com ✨
+## ✨ CHECK MY WEBSITE: annenuno.com ✨
 <!---
 annenuno/annenuno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
