@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/annenuno/annenuno/blob/main/plant.gif" width="500" height="320" />
 
-- 👀 I’m interested in learning more about web development and game development.
-- 🌱 I’m currently updating my own website and adding more project to my github!.
-- 😄 I’m looking to collaborate on open source projects
+- 👀 Currently updating my website and learning more about web design!
+- 🌱 Interested in growing my skills and creativity!
+- 😄 Looking to collaborate on open source projects
 - 🦈 Fun fact: I speak Spanish and I take care over 60 indoor plants!! 🪴
 
 - 📫 How to reach me:
