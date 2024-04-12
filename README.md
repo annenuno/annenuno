@@ -2,20 +2,23 @@
 
 <img align="right" alt="GIF" src="https://github.com/annenuno/annenuno/blob/main/plant.gif" width="320" height="320" />
 
-- 👀 Currently updating my website and learning more about web design!
 - 🌱 Interested in growing my skills and creativity!
-- 😄 Looking to collaborate on open source projects
-- 🦈 Fun fact: I speak Spanish and I take care over 60 indoor plants!! 🪴
+- 😄 Looking for more ways to challlenge myself!
+- 🦈 Fun fact: I speak Spanish and I take care over 60 indoor plants! 🪴
 
 - 📫 How to reach me:
     - Email: nunoany@gmail.com
-    - Instagram: @annenuno
+ 
+<br />
+<br />
 
-## ✨ CHECK MY WEBSITE: currently making a BIG change! ✨
+<!--- ## ✨ CHECK MY WEBSITE: currently making a BIG change! ✨ --->
 <!---
 annenuno/annenuno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!---
 ## Languages and Tools:
 
 <img align="left" alt="C#" width="26px" src="https://github.com/annenuno/annenuno/blob/main/icons/C%23.png" />
@@ -51,8 +54,9 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+--->
 
-## Languages I am currently learning:
+## Languages and Tools I am currently using:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="css" width="26px" src="https://github.com/annenuno/annenuno/blob/main/icons/css.png" />
