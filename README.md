@@ -1,6 +1,6 @@
 ### ✨HELLO WORLD! I'm Ana!✨
 
-<img align="right" alt="GIF" src="https://github.com/annenuno/annenuno/blob/main/plant.gif" width="320" height="320" />
+<img align="right" alt="GIF" src="https://github.com/annenuno/annenuno/blob/main/plant.gif" width="320" height="250" />
 
 - 🌱 Interested in growing my skills and creativity!
 - 😄 Looking for more ways to challlenge myself!
