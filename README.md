@@ -80,3 +80,14 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Ana's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annenuno" />
 
 </details>
+
+
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=annenuno&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
