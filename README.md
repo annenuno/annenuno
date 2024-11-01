@@ -1,12 +1,13 @@
-### ✨HELLO WORLD! I'm Ana!✨
+### ✨HELLO WORLD! I'm Ana!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> ✨
 
 <!--
 <div style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/f1UH5LwVuWucM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pc-virus-ransomware-f1UH5LwVuWucM">via GIPHY</a></p>
 --->
 
-<img align="right" alt="GIF" src="https://github.com/annenuno/annenuno/blob/main/plant.gif" width="320" height="250" />
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRsZjJiOGNoZHg2eGUwcjcxNmM2dXp5bGkxeWZhOXc3eHFuZnVydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f1UH5LwVuWucM/giphy.gif" width="320" height="250" />
 
 <!---
+<img align="right" alt="GIF" src="https://github.com/annenuno/annenuno/blob/main/plant.gif" width="320" height="250" />
 <img align="right" alt="GIF" src="https://github.com/annenuno/annenuno/blob/main/plant.gif" width="320" height="250" />
 --->
 
